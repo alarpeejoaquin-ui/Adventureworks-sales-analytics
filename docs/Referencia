@@ -1,0 +1,7 @@
+SalesOrderHeader --SalesOrderID--> SalesOrderDetail
+SalesOrderDetail --ProductID--> Product --ProductSubcategoryID--> ProductSubcategory --ProductCategoryID--> ProductCategory
+Product --ProductID--> ProductCostHistory (costo por rango de fechas)
+SalesOrderHeader --CustomerID--> Customer --StoreID--> Store
+                                          --PersonID--> Person
+SalesOrderHeader --TerritoryID--> SalesTerritory
+SalesOrderHeader --SalesPersonID--> SalesPerson
