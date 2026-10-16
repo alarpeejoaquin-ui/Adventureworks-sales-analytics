@@ -32,8 +32,8 @@ adventureworks-sales-analytics/
 ```
 
 ## Avance
-- [ ] Fase 0 – Preparación
-- [ ] Fase 1 – Obtención y verificación
+- [x] Fase 0 – Preparación
+- [x] Fase 1 – Obtención y verificación
 - [ ] Fase 2 – Exploración en SQL
 - [ ] Fase 3 – Control de calidad
 - [ ] Fase 4 – Vistas en SQL
