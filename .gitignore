@@ -1,0 +1,17 @@
+# Respaldos de base de datos (muy pesados, se descargan de la fuente oficial)
+*.bak
+*.mdf
+*.ldf
+
+# Archivos de datos locales
+datos/*
+!datos/.gitkeep
+
+# Archivos temporales de Office / Power BI
+~$*
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
