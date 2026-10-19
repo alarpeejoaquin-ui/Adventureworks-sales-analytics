@@ -36,7 +36,7 @@ adventureworks-sales-analytics/
 - [x] Fase 1 – Obtención y verificación
 - [x] Fase 2 – Exploración en SQL
 - [x] Fase 3 – Control de calidad
-- [ ] Fase 4 – Vistas en SQL
+- [x] Fase 4 – Vistas en SQL
 - [ ] Fase 5 – Modelado en Power BI
 - [ ] Fase 6 – Medidas DAX
 - [ ] Fase 7 – Validación cruzada
