@@ -39,7 +39,7 @@ adventureworks-sales-analytics/
 - [x] Fase 4 – Vistas en SQL
 - [x] Fase 5 – Modelado en Power BI
 - [x] Fase 6 – Medidas DAX
-- [ ] Fase 7 – Validación cruzada
+- [x] Fase 7 – Validación cruzada
 - [ ] Fase 8 – Diseño del dashboard
 - [ ] Fase 9 – Extra opcional (pronóstico)
 - [ ] Fase 10 – Publicación
